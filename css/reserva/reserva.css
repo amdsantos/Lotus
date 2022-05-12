@@ -9,3 +9,13 @@
 body {
   font-family: "Inter", sans-serif;
 }
+
+a{
+  text-decoration: none;
+  color: #22011c;
+  font-size: large;
+}
+
+dados_cliente{
+  margin: 20px;
+}
