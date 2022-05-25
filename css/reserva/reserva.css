@@ -10,12 +10,13 @@ body {
   font-family: "Inter", sans-serif;
 }
 
-a{
+nav{
+  margin-top: 10px;
   text-decoration: none;
   color: #22011c;
   font-size: large;
 }
 
-dados_cliente{
+.dadosCliente{
   margin: 20px;
 }
